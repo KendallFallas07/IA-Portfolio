@@ -5,7 +5,7 @@ import { classes } from '../../data/class';
 const Classes = () => {
   return (
     <div className="flex flex-col items-center justify-center text-gray-800 overflow-hidden">
-      <h1 className="text-xl md:text-3xl lg:text-4xl xl:text-5xl font-bold mb-4 relative z-10">
+      <h1 className="mt-5 text-xl md:text-3xl lg:text-4xl xl:text-5xl font-bold mb-4 relative z-10">
         Clases 
       </h1>
 
