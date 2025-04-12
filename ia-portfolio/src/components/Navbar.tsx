@@ -41,6 +41,7 @@ const Navbar = () => {
           <Link href="/classes" className="mx-2 hover:text-gray-300">
             Clases
           </Link>
+
         </div>
         <div className="md:hidden flex items-center">
           <button onClick={() => setIsOpen(!isOpen)}>
