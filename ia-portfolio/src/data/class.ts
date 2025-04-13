@@ -2,7 +2,7 @@ export const classes = [
     {
         title: 'Clase 1',
         description: 'Introducción a la IA: Material y herramientas usadas en el curso.',
-        date: '01/03/2025',
+        date: '22/02/2025',
         zipUrl: '/ClassesMaterial/Clase 22-02-25.rar',
     },
     {
@@ -25,7 +25,7 @@ export const classes = [
     },
     {
         title: 'Clase 5',
-        description: 'Aprendizaje heuristico en la IA: Solución al problema del 8-Puzzle basada en IA.',
+        description: 'Aprendizaje heurístico en la IA: Solución al problema del 8-Puzzle basado en IA.',
         date: '22/03/2025',
         zipUrl: '/ClassesMaterial/Clase 22-03-25.rar',
     },
@@ -40,5 +40,11 @@ export const classes = [
         description: 'Control e implementación de búsquedas en espacios de estado: BFS, DFS, Voraz y USC.',
         date: '05/04/2025',
         zipUrl: '/ClassesMaterial/Clase 05-04-25.rar',
+    },
+    {
+        title: 'Clase 8',
+        description: 'Búsqueda heurística: Rutas inteligentes leyendo un CSV.',
+        date: '12/04/2025',
+        zipUrl: '/ClassesMaterial/Clase 12-04-25.rar',
     },
 ];

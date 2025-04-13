@@ -41,6 +41,12 @@ const Navbar = () => {
           <Link href="/classes" className="mx-2 hover:text-gray-300">
             Clases
           </Link>
+          <Link href="/labs" className="mx-2 hover:text-gray-300">
+            Laboratorios
+          </Link>
+          <Link href="/pids" className="mx-2 hover:text-gray-300">
+            PIDs
+          </Link>
 
         </div>
         <div className="md:hidden flex items-center">
