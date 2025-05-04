@@ -47,4 +47,16 @@ export const classes = [
         date: '12/04/2025',
         zipUrl: '/ClassesMaterial/Clase 12-04-25.rar',
     },
+    {
+        title: 'Clase 9',
+        description: 'Red neuronal: Captura de gestos manuales, entrenamiento del modelo y predicción de gestos.',
+        date: '26/04/2025',
+        zipUrl: '/ClassesMaterial/Clase 26-04-25.rar',
+    },
+    {
+        title: 'Clase 10',
+        description: 'Red neuronal: Reconocimiento de objetos en tiempo real mediante webcam utilizando un modelo preentrenado.',
+        date: '03/05/2025',
+        zipUrl: '/ClassesMaterial/Clase 03-05-25.rar',
+    },
 ];
