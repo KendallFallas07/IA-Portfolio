@@ -59,4 +59,10 @@ export const classes = [
         date: '03/05/2025',
         zipUrl: '/ClassesMaterial/Clase 03-05-25.rar',
     },
+    {
+        title: 'Clase 11',
+        description: 'Procesamiento de lenguaje natural: Análisis de sentimientos en reseñas de productos.',
+        date: '24/05/2025',
+        zipUrl: '/ClassesMaterial/Clase 24-05-25.rar',
+    },
 ];
