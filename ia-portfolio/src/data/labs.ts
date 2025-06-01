@@ -17,5 +17,11 @@ export const labs = [
         date: '17/05/2025',
         zipUrl: '/LabsMaterial/Laboratorio 3.rar',
     },
+    {
+        title: 'Laboratorio 4',
+        description: 'Procesamiento de lenguaje natural: Uso del modelo BERT para inferencia de relaciones entre pares de entidades.',
+        date: '31/05/2025',
+        zipUrl: '/LabsMaterial/Laboratorio 4.rar',
+    },
 
 ];
